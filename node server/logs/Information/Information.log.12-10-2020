@@ -1,0 +1,1 @@
+{"method":"POST","url":"/api/Employee/Customer/update?_id=5f7df89529b7f741bc315e56","status":200,"result_length":"66","user_agent":"PostmanRuntime/7.26.5","remote_addr":"::1","user_id":"5f5711ded4026304ac11a3af","remote_user":"Branch_Admin1","success":false,"message":"Object sent successfully","level":"info","timestamp":"2020-10-12T12:45:35.638Z"}

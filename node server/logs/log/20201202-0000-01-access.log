@@ -1,0 +1,16 @@
+::1 - - [01/Dec/2020:20:14:42 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 401 -
+::1 - - [01/Dec/2020:20:14:48 +0000] "POST /api/User/Employee/login HTTP/1.1" 200 375
+::1 - - [01/Dec/2020:20:15:08 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 404 169
+::1 - - [01/Dec/2020:20:18:52 +0000] "POST /api/Employee/Customer/analysis HTTP/1.1" 404 170
+::1 - - [01/Dec/2020:20:19:29 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 74
+::1 - - [01/Dec/2020:20:20:30 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 87
+::1 - - [01/Dec/2020:20:22:26 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 148
+::1 - - [01/Dec/2020:20:22:58 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 148
+::1 - - [01/Dec/2020:20:23:48 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 400 50
+::1 - - [01/Dec/2020:20:25:56 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 184
+::1 - - [01/Dec/2020:20:27:44 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 400 50
+::1 - - [01/Dec/2020:20:29:01 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 184
+::1 - - [01/Dec/2020:20:29:27 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 184
+::1 - - [01/Dec/2020:20:29:56 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 184
+::1 - - [01/Dec/2020:20:33:05 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 57
+::1 - - [01/Dec/2020:20:49:53 +0000] "GET /api/Employee/Customer/analysis HTTP/1.1" 200 184

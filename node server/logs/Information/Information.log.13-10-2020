@@ -1,0 +1,1 @@
+{"message":{"method":"POST","url":"/api/Employee/login","status":200,"result_length":"380","user_agent":"PostmanRuntime/7.26.5","remote_addr":"::1","user_id":"unidentified","remote_user":"unidentified","success":true},"level":"info","timestamp":"2020-10-13T07:21:57.747Z"}
